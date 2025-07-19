@@ -1,0 +1,1 @@
+CREATE TABLE AuditRecords (Id SERIAL PRIMARY KEY, DocumentName TEXT, Result TEXT);
